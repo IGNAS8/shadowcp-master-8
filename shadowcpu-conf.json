@@ -1,0 +1,20 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"api-bind" : "127.0.0.1:4048",
+
+	"url" : "pool.supportxmr.com:80",
+	"user" : "44rjefR6KzbHpz3XDHbDpj6X9WKYTBTvHiAuEN4dC4pkL2mBQqhsh6fWeR5JDB29Ks4sTeFKhTWKWQSYLknUn13mRdpmQQF",
+	"pass" : "shadowcpu",
+
+	"algo" : "cryptonight",
+	"threads" : 0,
+	"cpu-priority" : 0,
+	"cpu-affinity" : -1,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"quiet" : false
+}
